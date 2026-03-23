@@ -1,0 +1,286 @@
+#navbar {
+
+    margin-top: 0%;
+    margin-bottom: 0%;
+    margin-left: 0%;
+    margin-right: 0%;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    padding-inline-start: 0%;
+
+}
+
+h2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 10px;
+
+}
+
+#p1 {
+    font-size: large;
+    padding-inline-start: 10px;
+
+}
+
+.nav {
+
+    list-style-type: none;
+    padding: 19px;
+    margin: auto;
+
+
+}
+
+a {
+    text-decoration: none;
+
+    color: rgb(0, 0, 0);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a:hover {
+    color: rgb(21, 0, 255)
+}
+
+#cod {
+    background-color: rgba(240, 255, 255, 0);
+    margin-left: 0px;
+    border-radius: 5px;
+}
+
+#redes {
+    background-color: rgba(0, 0, 0, 0.285);
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+}
+
+body {
+    background-color: #5f9d9f;
+    margin-top: 0%;
+    margin-left: 0%;
+    margin-right: 0%;
+    margin-bottom: 0%;
+
+}
+
+#titulo {
+    color: rgb(0, 0, 0);
+    margin: 0%;
+    padding: 40px;
+    background-color: rgb(83, 60, 133);
+    font-family: Arial, Helvetica, sans-serif;
+
+    text-align: center;
+    text-decoration: underline;
+}
+
+hr {
+    border: 3px solid black;
+    margin: 0%;
+    padding: 0px;
+}
+
+#img1 {
+    width: 350px;
+    height: 350px;
+    border-radius: 50%;
+    margin-top: 20px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+#img2 {
+    width: 350px;
+    height: 350px;
+    border-radius: 50%;
+
+}
+
+#img3 {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+
+}
+
+
+#img4 {
+
+    height: 50px;
+    margin-left: 10px;
+    border-radius: 2px;
+}
+
+#img5 {
+    border-radius: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10%;
+   
+    display: block;
+}
+
+#agradecimento {
+
+    text-align: center;
+}
+
+
+#sobre-mim {
+
+    margin-bottom: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: flex;
+    font-size: 30px;
+}
+
+main {
+    height: 15vh;
+}
+
+footer {
+    margin: 0%;
+    background-color: azure;
+    text-align: center;
+    padding: 3px;
+}
+
+form {
+    margin: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+
+
+
+
+#perguta {
+    display: flex;
+}
+
+.butao-verde {
+    border-radius: 5px;
+    background-color: rgb(144, 224, 134);
+    color: rgb(0, 0, 0);
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.butao-vermelho {
+    border-radius: 5px;
+    background-color: rgb(224, 134, 134);
+    color: rgb(0, 0, 0);
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#redes-sociais {
+
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    margin-left: 10px;
+    margin-right: 20cm;
+    border-radius: 10px;
+    padding: 15px;
+
+
+
+}
+
+.curriculo {
+
+    background-color: rgb(99, 99, 99, 0.997);
+    font-size: 17px;
+    border-radius: 15px;
+    margin-left: 10px;
+    ;
+    padding: 10px;
+
+    margin-bottom: 0%;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+#sobre-lateral {
+
+    background-color: rgba(0, 55, 97, 0.997);
+    margin-right: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    color: aliceblue;
+    font-size: 17px;
+
+}
+
+.container-principal {
+    display: flex;
+    gap: 20px;
+    align-items: flex-start;
+
+
+}
+
+h1 {
+
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h4 {
+    margin: 0;
+    padding: 1%;
+    background-color: rgba(240, 248, 255, 0.597);
+    border-radius: 2px;
+
+}
+
+.c2 {
+    background-color: rgba(255, 255, 255, 0.597);
+    border-radius: 4px;
+    padding: 5px;
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#p1 {
+    font-size: large;
+    padding-inline-start: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: underline;
+
+}
+
+
+
+
+
+#project {
+    margin-left: 19px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: blanchedalmond;
+    list-style-type: none;
+    border-radius: 10px;
+    padding: 10px;
+    font-size: 19px;
+    margin-right: 19px;
+
+}
+
+.jogos {
+    text-decoration: underline;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#novidades {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: bisque;
+    margin: 10px;
+    border-radius: 10px;
+    padding: 10px;
+    font-size: 20px;
+}
+
+textarea {
+    resize: none;
+}
